@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Tools\MouseClick.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Objects\WaveButton.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\Menus\WaveMenu.cs" Line="74" Column="84" />
+      <File FileName="Assets\Scripts\Tools\MouseClick.cs" Line="24" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

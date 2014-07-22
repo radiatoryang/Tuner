@@ -1,0 +1,60 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.3788]
+    Renderer: Intel(R) HD Graphics 4600
+    Vendor:   Intel
+    VRAM:     1792 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\charlesjpratt\Dropbox\Games\Tweaker\Builds\a4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\charlesjpratt\Dropbox\Games\Tweaker\Builds\a4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\charlesjpratt\Dropbox\Games\Tweaker\Builds\a4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\charlesjpratt\Dropbox\Games\Tweaker\Builds\a4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+UnloadTime: 0.274786 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 250.
+Total: 0.646611 ms (FindLiveObjects: 0.013529 ms CreateObjectMapping: 0.009797 ms MarkObjects: 0.122697 ms  DeleteObjects: 0.003732 ms)
+
+Platform assembly: C:\Users\charlesjpratt\Dropbox\Games\Tweaker\Builds\a4_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 1.038963 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 127 unused Assets to reduce memory usage. Loaded Objects now: 117.
+Total: 1.602532 ms (FindLiveObjects: 0.030791 ms CreateObjectMapping: 0.020993 ms MarkObjects: 0.212271 ms  DeleteObjects: 0.379755 ms)
+
+UnloadTime: 0.471195 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 120.
+Total: 1.221843 ms (FindLiveObjects: 0.014928 ms CreateObjectMapping: 0.016795 ms MarkObjects: 0.222068 ms  DeleteObjects: 0.005598 ms)
+
+UnloadTime: 0.574765 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 128.
+Total: 1.500829 ms (FindLiveObjects: 0.022860 ms CreateObjectMapping: 0.020993 ms MarkObjects: 0.278985 ms  DeleteObjects: 0.007464 ms)
+
+UnloadTime: 0.515516 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 164.
+Total: 1.477969 ms (FindLiveObjects: 0.024259 ms CreateObjectMapping: 0.019594 ms MarkObjects: 0.339634 ms  DeleteObjects: 0.008864 ms)
+
+UnloadTime: 1.175190 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 120.
+Total: 1.507360 ms (FindLiveObjects: 0.019594 ms CreateObjectMapping: 0.026125 ms MarkObjects: 0.259857 ms  DeleteObjects: 0.148356 ms)
+
+UnloadTime: 0.243995 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 250.
+Total: 0.602757 ms (FindLiveObjects: 0.009330 ms CreateObjectMapping: 0.009330 ms MarkObjects: 0.141358 ms  DeleteObjects: 0.003265 ms)
+
